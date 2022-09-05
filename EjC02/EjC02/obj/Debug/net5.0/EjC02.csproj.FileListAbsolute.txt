@@ -1,0 +1,16 @@
+Z:\Facu 2022\2C\EjC02\EjC02\obj\Debug\net5.0\EjC02.csproj.AssemblyReference.cache
+Z:\Facu 2022\2C\EjC02\EjC02\obj\Debug\net5.0\EjC02.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Facu 2022\2C\EjC02\EjC02\obj\Debug\net5.0\EjC02.AssemblyInfoInputs.cache
+Z:\Facu 2022\2C\EjC02\EjC02\obj\Debug\net5.0\EjC02.AssemblyInfo.cs
+Z:\Facu 2022\2C\EjC02\EjC02\obj\Debug\net5.0\EjC02.csproj.CoreCompileInputs.cache
+Z:\Facu 2022\2C\EjC02\EjC02\bin\Debug\net5.0\EjC02.exe
+Z:\Facu 2022\2C\EjC02\EjC02\bin\Debug\net5.0\EjC02.deps.json
+Z:\Facu 2022\2C\EjC02\EjC02\bin\Debug\net5.0\EjC02.runtimeconfig.json
+Z:\Facu 2022\2C\EjC02\EjC02\bin\Debug\net5.0\EjC02.runtimeconfig.dev.json
+Z:\Facu 2022\2C\EjC02\EjC02\bin\Debug\net5.0\EjC02.dll
+Z:\Facu 2022\2C\EjC02\EjC02\bin\Debug\net5.0\EjC02.pdb
+Z:\Facu 2022\2C\EjC02\EjC02\obj\Debug\net5.0\EjC02.dll
+Z:\Facu 2022\2C\EjC02\EjC02\obj\Debug\net5.0\refint\EjC02.dll
+Z:\Facu 2022\2C\EjC02\EjC02\obj\Debug\net5.0\EjC02.pdb
+Z:\Facu 2022\2C\EjC02\EjC02\obj\Debug\net5.0\EjC02.genruntimeconfig.cache
+Z:\Facu 2022\2C\EjC02\EjC02\obj\Debug\net5.0\ref\EjC02.dll
